@@ -165,7 +165,7 @@ html.swipebox-html.swipebox-touch {
 }
 #swipebox-github:hover::before, #swipebox-site:hover::after{
   cursor: pointer;
-  color: #e61c1cbc;
+  color: #07cb79;
 }
 #swipebox-prev,
 #swipebox-next,
